@@ -9,9 +9,9 @@
         <item>Ven</item>
         <item>Sab</item>
     </string-array>
-	<string-array name="languageArray">
+    <string-array name="languageArray">
         <item>English</item>
         <item>简体中文</item>
-		<item>Italiano</item>
+	<item>Italiano</item>
     </string-array>
 </resources>

@@ -221,7 +221,6 @@
     <string name="enable">Enable</string>
     <string name="ip">IP Address:</string>
     <string name="schedule_hint1">点击右上角“</string>
-    <string name="schedule_hint2">”添加</string>
     <string name="now">Now</string>
     <string name="change_password">Change Password</string>
     <string name="current_password">Current Password</string>
@@ -241,7 +240,11 @@
     <string name="amend_succeed">修改成功</string>
     <string name="amend_failed">修改失败</string>
     <string name="please_code">请输入验证码</string>
-    <string name="website_msg">http://www.revogi.com</string>
+    <string name="password_success">密码修改成功</string>
+    <string name="crop__saving">保存图片…</string>
+    <string name="crop__wait">请稍等…</string>
+    <string name="crop__pick_error">没有可用的图片来源</string>
+    <string name="website_msg">www.revogi.com</string>
     <string name="call_support_msg">+86-755-83595380</string>
     <string name="email_support_msg">support@revogi.com</string>
     <string name="company">Revogi Innovation Co.,Ltd.</string>
